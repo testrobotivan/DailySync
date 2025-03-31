@@ -1,6 +1,6 @@
 name: Gather RQ statistical data and write it to google sheet
 
-# on:
+ on:
 #   workflow_dispatch:
 #   schedule:
 #     - cron: "30 17 * * *"
